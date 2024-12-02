@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CellphoneDB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DeepTEX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Islander" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JSTA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PhenoGraph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PySpots" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RNAPath" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SPACEL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SPACEc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SPACEc/data/example_data/STELLAR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SPACEcexample_data/STELLAR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SPRITE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STRIDE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpaRx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spacia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpatialCells" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StereoMMv1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stereopy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TENET" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TFvelo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Xenium_benchmarking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anndata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/batman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cellpose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deepcelltypes-demo-08-2023" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/emobject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geftools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hubmap-mean-expression-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/liana-py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/milopy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/monkeybread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ome-zarr-py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scarches" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scenicplus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spateo-release" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spatialdata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/squidpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/squidpy_notebooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/squidpy_reproducibility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stLearn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stardist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/starfysh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stellar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xFinder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xfuse" vcs="Git" />
+  </component>
+</project>
