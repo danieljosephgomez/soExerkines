@@ -1,4 +1,4 @@
-# soExersomes: Spatial-omics Exersomes and Mapping Exerkines
+# soExerkines: Spatial-omics Exersomes and Mapping Exerkines
 
 Exerkine Mapping Machine Learning Analysis
 
